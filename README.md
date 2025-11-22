@@ -61,6 +61,8 @@ It allows remote or local control of appliances such as lights, LED strips, gara
 
 - **Suitable for hobbyists, makers, students, and developers**
 
+![DIY roVAD Smart Switch Kit](images/app14.png)
+
 ## Safety Notice
 
 - High-voltage AC (110–250V) can be switched. Take extreme caution.
@@ -82,12 +84,14 @@ For **detailed assembly instructions, wiring diagrams, and setup**, see [ASSEMBL
 - List timers: `listtimer`
 - Sequential relay control: `sce_xxxx` (e.g., `sce_1010`)
 
+![DIY roVAD Smart Switch Kit](images/Box21.png)
+
 ## About / Roadmap
 
 This project is part of a growing DIY smart home initiative. Future plans include:
 
 - Upgraded kits: 6ch, 8ch, 16ch versions
-- Continued ROVAD Smart App development with interactive elements
+- Continued roVad Smart App development with interactive elements
 - New commands and advanced automation
 - Community feedback integration
 
