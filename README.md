@@ -7,6 +7,8 @@
 The **DIY roVad Smart Switch Kit** is a DIY electronics kit for smart home experimentation. 
 It allows remote or local control of appliances such as lights, LED strips, garage doors, alarms, sensors, home and industrial appliances and more.  
 
+The kit is compatible with platforms such as Home Assistant, Adafruit, CloudAMQP, and Mosquitto, making it easy to integrate into existing smart home setups.
+
 ⚠️ **Note:** This is a DIY kit, not a finished consumer product. Assembly is required, and safety precautions must be followed when connecting to mains electricity. 
 
 ![DIY roVAD Smart Switch Kit - Enclosure ](images/b1.png)
