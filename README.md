@@ -13,6 +13,10 @@ The kit is compatible with platforms such as Home Assistant, Adafruit, CloudAMQP
 
 ![DIY roVAD Smart Switch Kit - Enclosure ](images/b1.png)
 
+## 🎥 Promo video
+
+https://youtu.be/JV2t9e-rjnw
+
 ## Kit Specifications
 
 - **Enclosure (Box + Lid)**
